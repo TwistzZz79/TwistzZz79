@@ -1,8 +1,4 @@
-<h3 align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=👋+Hi+there+-+こんにちは+-+I+am+An+:D&vCenter=true)](https://git.io/typing-svg)
-
-</h3>
 
 
 ![](https://komarev.com/ghpvc/?username=TwistzZz79&color=blue&style=for-the-badge)
